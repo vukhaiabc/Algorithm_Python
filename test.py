@@ -17,4 +17,3 @@ def get_popularity(n):
 
 rs = get_popularity(3)
 print(rs)
-print('abc')
